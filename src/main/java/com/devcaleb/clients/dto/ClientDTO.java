@@ -1,16 +1,22 @@
 package com.devcaleb.clients.dto;
 
 import com.devcaleb.clients.entities.Client;
+import jakarta.validation.constraints.*;
 
 import java.time.LocalDate;
 
 public class ClientDTO {
 
     private Long id;
+    @Size(min = 5, max = 15, message = "Name must be between 5 and 15 characters long")
+    @NotBlank(message = "Required field")
     private String name;
     private String cpf;
+    @Positive(message = "Income must be positive")
     private Double income;
+    @PastOrPresent
     private LocalDate birthDate;
+    @PositiveOrZero(message = "The number of children must be positive or zero")
     private Integer children;
 
     public ClientDTO(){}
