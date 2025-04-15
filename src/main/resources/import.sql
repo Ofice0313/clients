@@ -1,1 +1,15 @@
 INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Marcelo Ofice', '345667869', 10000.0, '2001-01-13', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Leocadia Samuel Simbine', '23879921', 100000.0, '1985-08-06', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Delmira Samuel Simbine', '7466378827', 10000.0, '1987-09-12', 4);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Samiro Samuel Simbine', '27839939273', 70000.0, '1990-04-16', 4);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Leong Fat Wa', '8938739282', 30000.0, '1996-02-02', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Noemi De Tarce Elves Carlos Julião', '3499667869', 10000.0, '2003-08-27', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Samira Pedro Silabel', '3456677839', 10000.0, '2005-10-12', 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Antónia Pedro Silabel', '34001113', 00.0, '2008-09-02', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Alex Brown', '11111113', 89900.0, '2010-03-11', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Max Big Baby', '00992213', 20000.0, '1990-12-15', 6);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Martha Silva', '1999113', 5000.0, '1980-06-03', 7);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Francisco Big Deal', '1113111', 60000.0, '2001-05-23', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Maria Silva', '1234478111', 110000.0, '1994-05-23', 2);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Pedro Alone', '17638413111', 2000.0, '2004-05-23', 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Henriques Peter', '3456283111', 44000.0, '1989-06-09', 5);
